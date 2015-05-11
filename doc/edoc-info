@@ -1,0 +1,4 @@
+%% encoding: UTF-8
+{application,tcp_interface}.
+{packages,[]}.
+{modules,[ti_app,ti_server,ti_sup]}.
